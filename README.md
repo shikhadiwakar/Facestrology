@@ -12,3 +12,7 @@ The training of different machine learning models was conducted to recognize and
 Upon the successful integration of these individual models, the system provided an in-depth characterization of the individual based on their facial features. The project aimed to discern personality traits, strengths, and potential life events. By combining the insights derived from facial analysis with astrological principles, the system could predict future occurrences and provide personalized horoscope forecasts for the subsequent three days.
 
 Overall, the "Face Reading using Astrology" project represents a sophisticated application of ML and DL in the field of facial recognition, skillfully merged with the domain of astrology to deliver a comprehensive and captivating experience. It demonstrated the potential of AI technologies to offer deeper insights into individuals, combining scientific analysis with the mystique of astrological interpretations to provide users with intriguing and personalized predictions.
+
+#DEMO
+
+https://drive.google.com/file/d/10sYtLL7IpdZg2x-YGT9gd9KJnYMdD7Lz/view?usp=drive_link
