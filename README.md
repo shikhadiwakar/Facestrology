@@ -13,6 +13,5 @@ Upon the successful integration of these individual models, the system provided 
 
 Overall, the "Face Reading using Astrology" project represents a sophisticated application of ML and DL in the field of facial recognition, skillfully merged with the domain of astrology to deliver a comprehensive and captivating experience. It demonstrated the potential of AI technologies to offer deeper insights into individuals, combining scientific analysis with the mystique of astrological interpretations to provide users with intriguing and personalized predictions.
 
-#DEMO
-
+# DEMO
 https://drive.google.com/file/d/10sYtLL7IpdZg2x-YGT9gd9KJnYMdD7Lz/view?usp=drive_link
