@@ -1,0 +1,118 @@
+{
+    "face_regions":
+    [
+        {
+            "name":"eyebrows",
+            "features":[
+                {
+                    "name":"unibrow",
+                    "analysis":"strong character，People with wider unibrows are bold, while those with narrower unibrows are more stubborn and lack stamina. In addition, this kind of person is more insidious, usually an intelligent criminal."
+                },
+                {
+                    "name":"Characteristic eyebrows",
+                    "analysis":"On the surface, they are not easy to approach, but in reality they are amiable and have good moral character. Because of their generous spending, they have to work hard to make money all their lives. People with eight-character eyebrows are broad-minded and have a heroic spirit, so they are good people to talk to."
+                },
+                {
+                    "name":"big knife eyebrow",
+                    "analysis":"Courageous, resourceful and competitive, but easy to be satisfied, plus he has no needs among people, and he puts down to play before he has enough gains, so his luck sometimes goes up and down."
+                },
+                {
+                    "name":"even eyebrows",
+                    "analysis":"Both civil and military skills, good memory, better than engineers, researchers, good eloquence, kind-hearted, kind-hearted, extraordinary bearing."
+                },
+                {
+                    "name":"crescent eyebrow",
+                    "analysis":"Emotional and delicate, with the temperament of an artist, thoughtful, and good interpersonal relationship. The disadvantage of this kind of person is that they are too emotional, so they appear very emotional, idealized, and out of touch with reality."
+                }
+            ]
+        },
+        {
+            "name":"eyes",
+            "features":[
+                {
+                    "name":"triangular eyes",
+                    "analysis":"People with triangular eyes are not only suspicious by nature, but also hide murderous intentions. They are very difficult to get along with, and they are easy to cause murder and disaster."
+                },
+                {
+                    "name":"danphang eye",
+                    "analysis":"People with this type of eyes are born loyal and courageous, jealous of evil, courageous and resourceful, they will help each other when encountering injustice, they can distinguish between love and hate, they will repay favors, and they will keep promises and keep promises."
+                },
+                {
+                    "name":"drooping eyes",
+                    "analysis":"Men with this eye type usually have no opinions, tend to be timid and imposing, and are afraid of their wives; women are feminine, thoughtful, gentle and peaceful, and can induce pity in men."
+                },
+                {
+                    "name":"Peach blossom eyes",
+                    "analysis":"People with peach blossom eyes are more talented in talent and good relationship with the opposite sex. Whether they are male or female with peach blossom eyes, their lifelong emotional fortune is relatively tortuous."
+                },
+                {
+                    "name":"round eyes",
+                    "analysis":"People with round eyes are straightforward, cheerful, consistent, proactive and sensitive, but they are easily tempted by the outside world, and they are less able to control their feelings and emotions."
+                }
+            ]
+        },
+        {
+            "name":"face",
+            "features":[
+                {
+                    "name":"oval face",
+                    "analysis":"People with oval faces are perfectionists, with a slight obsession with cleanliness, strict self-discipline, lenient treatment of others, and sophisticated social skills."
+                },
+                {
+                    "name":"square",
+                    "analysis":"Strong material desires, indulge in lust, good food, blogging, talking too much, etc. Strong executive ability, able to say what he can do, and do everything by himself, but he is a bit careless and disregards the small details."
+                },
+                {
+                    "name":"alpha",
+                    "analysis":"Thoughtful, smart, high comprehension, good at seizing opportunities, quick thinking, theory is more important than practice, and expertise is better than research."
+                },
+                {
+                    "name":"chinese",
+                    "analysis":"Although they are relatively resolute on the surface, the longer they get along, the easier it is for people to get along with each other, so their popularity is better."
+                },
+                {
+                    "name":"round face",
+                    "analysis":"People with round faces are optimistic and cheerful, easy to get along with others, and have very good interpersonal relationships. Because of their compassion, they are more likely to be tempted by the opposite sex."
+                }
+            ]
+        },
+        {
+            "name":"mouth",
+            "features":[
+                {
+                    "name":"small lips",
+                    "analysis":"People with small mouths are small-minded, poor in dealing with people, and relatively introverted and conservative. They often feel at a loss when encountering difficulties."
+                },
+                {
+                    "name":"ingot mouth",
+                    "analysis":"This kind of people are very popular, the corners of their mouths are raised like ingots, and the God of Wealth will take the initiative to come to the door, so the fortune of wealth will naturally be good."
+                },
+                {
+                    "name":"thick lips",
+                    "analysis":"Passionate and good at warmth, emphasizing on sensory stimulation, doing things practically and hard-working, not hiding cheating and playing tricks."
+                }
+            ]
+        },
+        {
+            "name":"nose",
+            "features":[
+                {
+                    "name":"upturned nose",
+                    "analysis":"This type of person has always remained naive and unable to face reality. And there are principles in thinking, so the thinking is simple, lacks courage, and is impatient."
+                },
+                {
+                    "name":"Truncated nose",
+                    "analysis":"The nose is as straight as a truncated tube, the nose is neat and straight without deviation, the root of the mountain is slightly longer, and the age and longevity are full. Such people will be rich and honorable in middle age, and they will make a fortune."
+                },
+                {
+                    "name":"hanging bile nose",
+                    "analysis":"The nose is like a hanging gall, the head is neat, the root of the mountain is smooth and straight, without deviation, and the Lantai and Yanwei are relatively small and not very clear. When a person with a hanging bile nose reaches the prime of his life, wealth and glory will come."
+                },
+                {
+                    "name":"hook nose",
+                    "analysis":"People with aquiline noses are hypocritical and indifferent, indifferent to family, easy to betray friends, but most of them are flexible and good at studying."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "face_regions":
+    [
+        {
+            "name":"eyebrows",
+            "features":[
+                {
+                    "name":"Straight",
+                    "analysis":"Usually with great perseverance and courage. People with thick straight eyebrows are often strong-willed, courageous and stern. People with thin straight eyebrows are often clever, talented and shrewd."
+                },
+                {
+                    "name":"Arch",
+                    "analysis":"Energetic, not afraid of difficulties, brave and confident to innovate. But sometimes may be stubborn."
+                },
+                {
+                    "name":"Circle",
+                    "analysis":"Being mild, friendly and considerate, usually with good relationship with others. Have stronger feelings for art, but sometimes will be emotional and idealistic in real life."
+                }
+            ]
+        },
+        {
+            "name":"eye color",
+            "features":[
+                {
+                    "name":"Black",
+                    "analysis":"People with black eyes tend to be mysterious like night and have high intuitions. They are highly responsible and loyal. hardworking and optimistic."
+                },
+                {
+                    "name":"Brown",
+                    "analysis":"You have a strong creative imagination and like to put forward your ideas to those who would listen."
+                },
+                {
+                    "name":"Gray",
+                    "analysis":"grey eyes show your conservative nature but somewhere within you is a deep desire to break free of your traditional constraints"
+                },
+                {
+                    "name":"Hazel",
+                    "analysis":"yours are less constant and your mind could waver on many matters, including your life direction and choices of partners with whom you would wish to share your life''s path with."
+                },
+                {
+                    "name":"Green",
+                    "analysis":"It is said that both men and women of the caliber of genius often possess your green coloured eyes"
+                },
+                {
+                    "name":"Lilac",
+                    "analysis":"ou have an intuitive, psychic sense but also strong spiritual leanings as part and parcel of your character. You may be seeking the ultimate state in both your relationships and life as a whole"
+                },
+                {
+                    "name":"Blue",
+                    "analysis":"you have a desire to find stability in the world and to have a fine bank balance with which to buy the material security that will give you inner fulfillment."
+                }
+            ]
+        },
+        {
+            "name":"face shape",
+            "features":[
+                {
+                    "name":"Oblong",
+                    "analysis":"you are practical, methodical and deliberate but may tend to overwork. Probably you will find the lion''s share of workaholics in this category. You can be excessively concerned about material and financial security, so you push yourself to the limits in trying to acquire those things that remove this sense of worldly inadequacy."
+                },
+                {
+                    "name":"Round",
+                    "analysis":"you take an intense interest in your projects, desiring to nourish concepts from an inceptive stage, watering the idea at each and every step _ much like a mother feeding her newborn infant.you are a conservative who is best suited to social situations and perform very well in professional arenas where a social and playful environment accommodates your naturally easy-going style. "
+                },
+                {
+                    "name":"Square",
+                    "analysis":"ou are seen to be aggressive, ambitious and dominating. You may be irritable and quick to anger but usually cool off just as suddenly. Others are intimidated by the sheer force of your approach but they will always know where you and they stand.Your mind is sharp and analytical and so you make a good practical worker, scientist, engineer or mechanic. Dexterity is one of your strengths.."
+                },
+                {
+                    "name":"Heart",
+                    "analysis":" you are curious and investigative, all of the areas that allow free reign to your thirsty intellect will provide the best fulfillment for you. For the most part you are known as an active, athletic and energetic individual but may somehow lack stamina and burn out quickly. You must learn the art of pacing yourself to maximize energy reserves."
+                },
+                {
+                    "name":"Oval",
+                    "analysis":"People with an oval face are very popular, well-balanced, diplomatic and objective. Additionally, they are natural-born leaders who don't give up easily and have great money-making skills. However, they can sometimes be impatient, feisty and snobbish."
+                }
+            ]
+        }
+    ]
+}

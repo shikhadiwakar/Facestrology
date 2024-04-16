@@ -1,0 +1,102 @@
+{
+    "recognized_faces":
+    [
+        {
+            "name":"nitish",
+            "features":[
+                {
+                    "faceshape":"Round"
+                },
+                {
+                    "eyebrowshape":"Straight"
+                }
+            ]
+        },
+        {
+            "name":"shikha diwakar",
+            "features":[
+                {
+                    "faceshape":"round",
+                    "analysis":"strong character，People with wider unibrows are bold, while those with narrower unibrows are more stubborn and lack stamina. In addition, this kind of person is more insidious, usually an intelligent criminal."
+                },
+                {
+                    "eyecolor":"Characteristic eyebrows",
+                    "analysis":"On the surface, they are not easy to approach, but in reality they are amiable and have good moral character. Because of their generous spending, they have to work hard to make money all their lives. People with eight-character eyebrows are broad-minded and have a heroic spirit, so they are good people to talk to."
+                },
+                {
+                    "eyebrowshape":"big knife eyebrow",
+                    "analysis":"Courageous, resourceful and competitive, but easy to be satisfied, plus he has no needs among people, and he puts down to play before he has enough gains, so his luck sometimes goes up and down."
+                }
+            ]
+        },
+        {
+            "name":"harsh vasisht",
+            "features":[
+                {
+                    "faceshape":"square",
+                    "analysis":"strong character，People with wider unibrows are bold, while those with narrower unibrows are more stubborn and lack stamina. In addition, this kind of person is more insidious, usually an intelligent criminal."
+                },
+                {
+                    "eyecolor":"Characteristic eyebrows",
+                    "analysis":"On the surface, they are not easy to approach, but in reality they are amiable and have good moral character. Because of their generous spending, they have to work hard to make money all their lives. People with eight-character eyebrows are broad-minded and have a heroic spirit, so they are good people to talk to."
+                },
+                {
+                    "eyebrowshape":"big knife eyebrow",
+                    "analysis":"Courageous, resourceful and competitive, but easy to be satisfied, plus he has no needs among people, and he puts down to play before he has enough gains, so his luck sometimes goes up and down."
+                }
+            ]
+        },
+        {
+            "name":"rishabh",
+            "features":[
+                {
+                    "faceshape":"unibrow",
+                    "analysis":"strong character，People with wider unibrows are bold, while those with narrower unibrows are more stubborn and lack stamina. In addition, this kind of person is more insidious, usually an intelligent criminal."
+                },
+                {
+                    "eyecolor":"Characteristic eyebrows",
+                    "analysis":"On the surface, they are not easy to approach, but in reality they are amiable and have good moral character. Because of their generous spending, they have to work hard to make money all their lives. People with eight-character eyebrows are broad-minded and have a heroic spirit, so they are good people to talk to."
+                },
+                {
+                    "eyebrowshape":"big knife eyebrow",
+                    "analysis":"Courageous, resourceful and competitive, but easy to be satisfied, plus he has no needs among people, and he puts down to play before he has enough gains, so his luck sometimes goes up and down."
+                }
+            ]
+        },
+        {
+            "name":"amit mishra",
+            "features":[
+                {
+                    "faceshape":"unibrow",
+                    "analysis":"strong character，People with wider unibrows are bold, while those with narrower unibrows are more stubborn and lack stamina. In addition, this kind of person is more insidious, usually an intelligent criminal."
+                },
+                {
+                    "eyecolor":"Characteristic eyebrows",
+                    "analysis":"On the surface, they are not easy to approach, but in reality they are amiable and have good moral character. Because of their generous spending, they have to work hard to make money all their lives. People with eight-character eyebrows are broad-minded and have a heroic spirit, so they are good people to talk to."
+                },
+                {
+                    "eyebrowshape":"big knife eyebrow",
+                    "analysis":"Courageous, resourceful and competitive, but easy to be satisfied, plus he has no needs among people, and he puts down to play before he has enough gains, so his luck sometimes goes up and down."
+                }
+            ]
+        },
+        {
+            "name":"shubhyansh",
+            "features":[
+                {
+                    "faceshape":"unibrow",
+                    "analysis":"strong character，People with wider unibrows are bold, while those with narrower unibrows are more stubborn and lack stamina. In addition, this kind of person is more insidious, usually an intelligent criminal."
+                },
+                {
+                    "eyecolor":"Characteristic eyebrows",
+                    "analysis":"On the surface, they are not easy to approach, but in reality they are amiable and have good moral character. Because of their generous spending, they have to work hard to make money all their lives. People with eight-character eyebrows are broad-minded and have a heroic spirit, so they are good people to talk to."
+                },
+                {
+                    "eyebrowshape":"big knife eyebrow",
+                    "analysis":"Courageous, resourceful and competitive, but easy to be satisfied, plus he has no needs among people, and he puts down to play before he has enough gains, so his luck sometimes goes up and down."
+                }
+            ]
+        }
+    ]    
+    
+}
